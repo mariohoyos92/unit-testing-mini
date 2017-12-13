@@ -1,0 +1,14 @@
+{
+  "name": "unit-testing-mini",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": "https://github.com/mariohoyos92/unit-testing-mini.git",
+  "author": "<mariohoyos92@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
